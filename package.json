@@ -1,0 +1,22 @@
+{
+  "name": "temppractice",
+  "version": "1.0.0",
+  "description": "practice for exam ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RutikKalokhe/temppractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RutikKalokhe/temppractice/issues"
+  },
+  "homepage": "https://github.com/RutikKalokhe/temppractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
